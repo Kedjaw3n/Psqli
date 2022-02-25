@@ -84,4 +84,4 @@ $ bash psqli.sh s #untuk string based injection only
 
 psqli* is licensed under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 <br>
-<p>Thx to ~AgressivCode-Agressiv1njector~
+<p>Thx to ~AgressivCode-Agressiv1njector~</p>
